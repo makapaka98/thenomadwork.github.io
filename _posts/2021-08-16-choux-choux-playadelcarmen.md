@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Choux Choux cafe
-cover-img: /assets/img/2022-06-12-noqta-space-essaouira-img01.jpg
-share-img: /assets/img/2022-06-12-noqta-space-essaouira-img01.jpg
+cover-img: /assets/img/Screenshot 2022-07-18 at 18.42.22.png
+share-img: /assets/img/Screenshot 2022-07-18 at 18.42.22.png
 tags: [playa del carmen, mexico, cafe, coworking]
 ---
 
